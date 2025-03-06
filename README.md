@@ -1,3 +1,35 @@
+# GitHub Profile Viewer with Next.js & Tailwind CSS
+
+This project is a **GitHub Profile Viewer** built with **Next.js 15** and **Tailwind CSS v4**. It allows users to view GitHub profiles and repositories dynamically.
+
+## Features
+
+- **GitHub Profile Overview**: View user information such as name, bio, followers, and repositories.
+- **Repository Details**: Detailed information about repositories including stars, forks, and languages used.
+- **Tailwind CSS v4**: A utility-first CSS framework to style the app.
+
+## Tech Stack
+
+- **Next.js 15**: A React framework for production.
+- **Tailwind CSS v4**: A utility-first CSS framework for styling.
+- **TypeScript**: Static typing for improved developer experience.
+- **GitHub API**: For fetching data from GitHub.
+
+## Setup
+
+### Prerequisites
+
+- Node.js (>= 16.8.0)
+- npm (>= 8.0.0)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/himangmyid/GitHub-Profile-Viewer-NextJS.git
+   cd GitHub-Profile-Viewer-NextJS
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
