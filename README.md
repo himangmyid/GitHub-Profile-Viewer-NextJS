@@ -7,4 +7,4 @@ Isi versi file di branch remote (di GitHub).
 # baru kan
 # ulang
 
-#capek cuy
+ # capek cuy itu lih
