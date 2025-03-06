@@ -6,3 +6,5 @@ Isi versi file di branch remote (di GitHub).
 # ini baru nih
 # baru kan
 # ulang
+
+#capek cuy
