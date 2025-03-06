@@ -13,6 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+## GitHub Profile Viewer - Next.js
+
+### (iPhone)
+![Dark Mode - iPhone](https://github.com/himangmyid/GitHub-Profile-Viewer-NextJS/blob/main/public/gbr%20mode%20iphone.png?raw=true)
+
+### (Mac)
+![Dark Mode - Mac](https://github.com/himangmyid/GitHub-Profile-Viewer-NextJS/blob/main/public/gbr%20mode%20mac.png?raw=true)
 
 # 1. Instal react-icons
 
@@ -30,7 +37,7 @@ npm install lucide-react
 and etc...
 
 # folder Entahlah
-
+```
 📂 GITHUBPROFILE  --> (Root folder proyek)
  ├── 📂 .next  --> (Folder build otomatis dari Next.js, jangan diedit langsung)
  ├── 📂 node_modules  --> (Folder dependencies dari npm/yarn)
@@ -62,10 +69,10 @@ and etc...
  ├── postcss.config.mjs  --> (Konfigurasi PostCSS untuk styling)
  ├── README.md  --> (Dokumentasi proyek)
  ├── tsconfig.json  --> (Konfigurasi TypeScript)
-
+```
 # if you want to use this code, or this repo...
 
-# change the username Himangmyid in each file
+# change the username ```Himangmyid``` in each file
 
 ```
 
@@ -96,3 +103,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
