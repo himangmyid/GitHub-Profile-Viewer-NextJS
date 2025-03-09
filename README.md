@@ -2,6 +2,13 @@
 
 This project is a **GitHub Profile Viewer** built with **Next.js 15** and **Tailwind CSS v4**. It allows users to view GitHub profiles and repositories dynamically.
 
+<p align="center">
+  <a href="https://github.com/himangmyid/GitHub-Profile-Viewer-NextJS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=GitHub-Profile-Viewer-NextJS&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
+
+
 ## Features
 
 - **GitHub Profile Overview**: View user information such as name, bio, followers, and repositories.
